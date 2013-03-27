@@ -1,0 +1,55 @@
+﻿.header
+{
+    background-color: #293F70;
+    width:80px;
+}
+
+h1
+{
+    color: white;
+    margin: 43px 50px 0px 0px;
+    display:block;
+    font-size:3em;
+    text-indent:50px;
+    text-align:left;
+}
+
+.swosu
+{
+    color: #ffffff;
+    /*padding-right: 8px;*/
+    font-size: 1.4em;
+    float: left;
+}
+
+h2, h3
+{
+    font-size: 2.4em;
+    font-weight: normal;
+}
+
+.content
+{
+    background-color:#fefefe;
+}
+
+body
+{
+    font: 100% Georgia, "Times New Roman", Times, serif;
+    line-height: 1.4;
+    margin: 0 auto;
+    background: #fefefe;
+}
+
+
+.waffles
+{
+    background: #1a1a1a;
+}
+
+.footer
+{
+    /*background-color:gray;*/
+    text-align:center;
+    color:white;
+}

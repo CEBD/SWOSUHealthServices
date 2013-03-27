@@ -3,6 +3,11 @@ margin: 0px;
 padding: 0px;
 }
 
+ul
+{
+    margin-left:19px;
+}
+
 html {
 	background: #1a1a1a
 }
@@ -113,6 +118,6 @@ li a:hover{
 .img-float-right
 {
     float:right;
-    margin: -36px -189px 35px 9px;
+    margin: -4% -38% 6% 5%;
     position:relative;
 }
